@@ -9,7 +9,6 @@ public class BasicAnnotation {
     @Test
     public void testCase1(){
         System.out.println("Test 这是测试用例1");
-
     }
 
     @BeforeMethod
